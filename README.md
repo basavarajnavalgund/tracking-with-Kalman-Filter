@@ -22,9 +22,6 @@ tracking with the Kalman Filter.
 
 ### 2. My project files
 
-(Note: the hyperlinks **only** works if you are on the homepage of this GitHub reop,
-and if you are viewing it in "github.io" you can be redirected by clicking the **View the Project on GitHub** on the top)
-
 * [CMakeLists.txt](CMakeLists.txt) is the cmake file.
 
 * [data](data) folder contains test lidar and radar measurements.
